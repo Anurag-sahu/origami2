@@ -1,0 +1,8 @@
+.p{
+    border: solid;
+    border-color: rgb(26, 153, 192);
+}
+.p1{
+    display: flex;
+    justify-content: space-around;
+}
